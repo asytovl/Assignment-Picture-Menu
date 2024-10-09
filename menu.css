@@ -1,0 +1,30 @@
+h1{
+    color: aqua;
+}
+
+body{
+    background-color: brown;
+}
+
+img:{
+width: 200px;
+border-width: 8px;
+border-style: groove; 
+display: block;
+}
+img:hover{
+    opacity: 0.5;
+}
+
+header{
+    font-weight: bold;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    position:absolute;
+    left: 0px;
+    right: 0px;
+    up: 0px;
+    down: 0px;
+}
+
